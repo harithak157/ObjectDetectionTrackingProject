@@ -54,11 +54,11 @@ python simple_detection.py
 
  What You Need in Your Folder
 
-object_tracking/
-├── models/ (folder with 3 files)
-├── download_files.py
-├── test_setup.py
-└── simple_detection.py
+object_tracking
+ models/ (folder with 3 files)
+ download_files.py
+ test_setup.py
+ simple_detection.py
 
 
  When It Works Successfully
@@ -72,5 +72,6 @@ object_tracking/
 - Uses your computer's CPU (no special hardware needed)
 - Works with any standard webcam
 - Detects 80+ common objects
+
 
 Just follow the 4 steps above and you'll have object detection running! The code files you need are already prepared.
